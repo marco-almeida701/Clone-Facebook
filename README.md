@@ -1,6 +1,6 @@
 # Clone-Facebook
 # Facebook Login Page Clone
-This is a responsive clone project of the Facebook login page, developed using HTML, CSS, and JavaScript. The purpose of this project is to showcase my front-end skills and demonstrate the ability to replicate a popular page with accuracy.
+This is a responsive clone project of the Facebook login page, developed using HTML, CSS. The purpose of this project is to showcase my front-end skills and demonstrate the ability to replicate a popular page with accuracy.
 ## Features
 * Responsive login page that adapts to different screen sizes and devices.
 * Validation of input fields (email/phone and password) using JavaScript.
