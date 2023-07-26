@@ -7,7 +7,7 @@ This is a responsive clone project of the Facebook login page, developed using H
 * Design and layout faithful to the original Facebook login page.
 ## How to Run the Project
 1. Clone this repository to your local machine.
-2. Open the index.html file in any web browser.
+2. Open the **index.html** file in any web browser.
 ## Final Thoughts
 This project was an excellent opportunity to enhance my front-end skills and explore the development of responsive interfaces. Feel free to explore the source code and provide feedback. You are welcome to use it as a reference or as a base for your own projects. Thank you for checking out this repository!
 
